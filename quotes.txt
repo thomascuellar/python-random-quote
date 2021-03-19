@@ -12,3 +12,6 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+Yelling is not the answer
+You can do better
+Always walk with your head up
